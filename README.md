@@ -1,7 +1,7 @@
 <h1 align="center">I'm Galit!</h1>
 <h3 align="center">a fullstack web developer from New York, NY</h3>
 
-- 🔭 I’m currently working on [a secret birthday present for a friend](https://github.com/Galitie/tyler)
+- 🔭 I’m currently working on [a to-do list that lets you pet the dog.](https://github.com)
 
 - 🌱 I’m currently learning **about AWS.**
 
