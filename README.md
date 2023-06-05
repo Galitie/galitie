@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Galit!</h1>
-<h3 align="center">a fullstack web developer from New York, NY.</h3>
+<h1 align="center">I'm Galit!</h1>
+<h3 align="center">a fullstack web developer from New York, NY</h3>
 
 - 🔭 I’m currently working on [a secret birthday present for a friend](https://github.com/Galitie/tyler)
 
