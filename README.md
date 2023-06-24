@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **gsweinfeld@gmail.com**
 
-- 📄 Know about my experiences [Galitie.com/resume](Galitie.com/resume)
+- 📄 Know about my experiences [on my resume](https://Galitie.com/resume)
 
-- ⚡ Fun fact **I have wanted to change my phone notification sound to the Metal Gear Solid alert sound but keep forgetting to.**
+- ⚡ Fun fact **I have wanted to change my phone notification sound to the Metal Gear Solid alert sound but keep forgetting to. ❗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
