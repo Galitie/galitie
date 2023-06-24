@@ -1,4 +1,4 @@
-<h1 align="center">I'm Galit!</h1>
+<h1 align="center">I'm Galit! (pronounced like "delete" but with a 'g')</h1>
 <h3 align="center">a fullstack web developer from New York, NY</h3>
 
 - 🔭 I’m currently working on [a jackbox game clone](https://github.com/Galitie/async-mobile-client-app)
