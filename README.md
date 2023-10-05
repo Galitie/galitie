@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a jackbox game clone](https://github.com/Galitie/async-mobile-client-app)
 
-- 🌱 I’m currently learning **React and NextJS**
+- 🌱 I’m currently learning **React and Nextjs**
 
 - 👯 I’m looking to collaborate on **a useful gamified application!**
 
