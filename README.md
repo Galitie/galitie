@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gsweinfeld@gmail.com**
 
-- 📄 Know about my experiences [on my resume](https://Galitie.com)
+- 📄 Know about my experiences [on my resume](https://docs.google.com/document/d/14-UH9hPYvC_GFtm55zFInI8R3mKKiXDvwkDXawYMegY/edit?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
