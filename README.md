@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working in **React and Nextjs**
 
-- 👯 I’m looking to collaborate on **a useful gamified application!**
-
 - 👨‍💻 All of my projects are available at [on my website](https://www.Galitie.com)
 
 - 📫 How to reach me **gsweinfeld@gmail.com**
