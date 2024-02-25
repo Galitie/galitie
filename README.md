@@ -1,11 +1,11 @@
 <h1 align="center">I'm Galit! (like 'delete' but with a 'g')</h1>
 <h3 align="center">a fullstack web developer and hobbiest game dev from New York, NY</h3>
 
-- 🔭 I’m currently working on an awards site for elopement photographers!
+- 🔭 Web Developer for The Public Theater in NYC
 
-- 🌱 I’m currently working in **React and Nextjs**
+- 🌱 I’m currently working in **C# and ASP.NET**
 
-- 👨‍💻 All of my projects are available at [on my website](https://www.Galitie.com)
+- 👨‍💻 [See what I've done](https://www.Galitie.com)
 
 - 📫 How to reach me **gsweinfeld@gmail.com**
 
