@@ -1,5 +1,5 @@
 <h1 align="center">I'm Galit! (like 'delete' but with a 'g')</h1>
-<h3 align="center">a fullstack web developer and hobbiest game dev from New York, NY</h3>
+<h3 align="center">a fullstack web engineer / web developer from New York, NY</h3>
 
 - 🔭 Web Developer for **The Public Theater** in NYC
 
