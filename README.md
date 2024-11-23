@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [on my resume](https://docs.google.com/document/d/14-UH9hPYvC_GFtm55zFInI8R3mKKiXDvwkDXawYMegY/edit?usp=sharing)
 
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/galit-weinfeld/) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/galit-weinfeld/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galit weinfeld" height="30" width="40" /></a>
-</p>
+
