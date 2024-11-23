@@ -3,7 +3,7 @@
 
 - 🔭 Web Developer for [**The Public Theater**](https://publictheater.org/) in NYC
 
-- 🌱 I’m currently working in **C# and ASP.NET**
+- 🌱 I’m currently working in **C#, ASP.NET, React and NextJS**
 
 - 👨‍💻 [See what I've done](https://www.Galitie.com)
 
